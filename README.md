@@ -1,2 +1,1 @@
-# project.fin-ai.eu
-project.fin-ai.eu
+stsm.fin-ai.eu
